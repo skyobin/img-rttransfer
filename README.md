@@ -12,6 +12,14 @@ eg：
 1.域名前缀为imgrt
 
 imgrt 支持等比压缩、裁剪、定高压缩、定宽压缩, 75质量
+
+A.spcgroup为指令分割。
+B.proportion不改变比例进行缩放。
+C.centor 按比例进行居中裁剪。
+D.width或height固定一边长度。
+E.qua图片质量。
+F.numXnum 长X宽
+
 http://imgrt.pconline.com.cn/images/upload/upc/tx/itbbs/1402/13/c10/spcgroup/proportion_300x300(,qua_80)/31233039_1392306126700.jpg
 http://imgrt.pconline.com.cn/images/upload/upc/tx/itbbs/1402/13/c10/spcgroup/center_300x300(,qua_80)/31233039_1392306126700.jpg
 http://imgrt.pconline.com.cn/images/upload/upc/tx/itbbs/1402/13/c10/spcgroup/width_300(,qua_80)/31233039_1392306126700.jpg
