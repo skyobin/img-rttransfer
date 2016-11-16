@@ -5,6 +5,7 @@
 
 eg：
 原图：http://img.pconline.com.cn/images/upload/upc/tx/itbbs/1402/13/c10/31233039_1392306126700.jpg
+
 1.域名前缀为imgrt
 imgrt 支持等比压缩、裁剪、定高压缩、定宽压缩, 75质量
 http://imgrt.pconline.com.cn/images/upload/upc/tx/itbbs/1402/13/c10/spcgroup/proportion_300x300(,qua_80)/31233039_1392306126700.jpg
